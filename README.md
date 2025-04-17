@@ -1,3 +1,5 @@
+# I confirm that I have read this text.
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
