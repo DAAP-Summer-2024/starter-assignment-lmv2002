@@ -1,4 +1,4 @@
-# I confirm that I have read this text.
+# I confirm that I have read this text
 
 # :wave: The Basics of GitHub 
 
